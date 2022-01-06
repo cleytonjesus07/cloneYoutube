@@ -146,7 +146,7 @@ const e = p.exports.jsx,
     },
     {
       id: 9,
-      title: "Walk-through | Phatom Thieves #09",
+      title: "Walkthrough | Phatom Thieves #09",
       channel: "PS4 world",
       views: "10 mi de visualiza\xE7\xF5es",
       date: "h\xE1 2 semana",
